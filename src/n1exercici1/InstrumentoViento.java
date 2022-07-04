@@ -3,7 +3,7 @@ package n1exercici1;
 public class InstrumentoViento extends Instrumento {
 
 	
-	
+	//
 	public InstrumentoViento(String nombre, int precio) {
 		super(nombre, precio);
 		
